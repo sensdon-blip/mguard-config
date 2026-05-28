@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "updated_at": "2026-05-28",
+  "servers": {
+    "germany": {
+      "enabled": true,
+      "address": "mguard-pro.com",
+      "port": 443
+    },
+    "poland": {
+      "enabled": true,
+      "address": "node1.mguard-pro.com",
+      "port": 443
+    }
+  }
+}
