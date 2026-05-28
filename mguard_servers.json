@@ -4,7 +4,7 @@
   "servers": {
     "germany": {
       "enabled": true,
-      "address": "mguard-pro.com",
+      "address": "167.17.176.188",
       "port": 443
     },
     "poland": {
